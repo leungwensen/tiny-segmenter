@@ -1,14 +1,15 @@
 {
-  "name": "tiny-segmenter",
-  "version": "0.2.0",
+  "name": "@inkdropapp/tiny-segmenter",
+  "version": "0.2.2",
   "description": "Super compact Japanese tokenizer in Javascript. http://chasen.org/~taku/software/TinySegmenter/",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leungwensen/tiny-segmenter.git"
+    "url": "git+https://github.com/inkdropapp/tiny-segmenter.git"
   },
   "keywords": [
     "tiny",
@@ -19,7 +20,7 @@
   "author": "Taku Kudo <taku@chasen.org>",
   "license": "SEE LICENSE IN http://chasen.org/~taku/software/TinySegmenter/LICENCE.txt",
   "bugs": {
-    "url": "https://github.com/leungwensen/tiny-segmenter/issues"
+    "url": "https://github.com/inkdropapp/tiny-segmenter/issues"
   },
-  "homepage": "https://github.com/leungwensen/tiny-segmenter#readme"
+  "homepage": "https://github.com/inkdropapp/tiny-segmenter#readme"
 }
