@@ -1,6 +1,6 @@
 {
   "name": "@inkdropapp/tiny-segmenter",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Super compact Japanese tokenizer in Javascript. http://chasen.org/~taku/software/TinySegmenter/",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
